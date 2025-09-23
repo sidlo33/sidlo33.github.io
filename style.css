@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine
+    }
+
+    .container {
+        background-color: black;
+        max-width: 800px;
+        border-radius: 15px;
+        margin: 100px auto;
+        padding: 5px 30px;
+        color: rgb(red, green, blue);
+        }
