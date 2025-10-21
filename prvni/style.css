@@ -6,9 +6,9 @@ h3{
     text-align: center;
 }
 a{
-text-decoration: none;
+text-decoration:underline;
 background:none;
-color:white;
+color:blue;
 }
 img{
     width: 800px;
@@ -17,7 +17,7 @@ img{
     box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
 }
 h4{
-    color: red;
+    color:white;
 }
 #navbar {
     background-color: darkblue;
@@ -55,7 +55,7 @@ h4{
 }
 
 .container {
-    background-color: lightgray;
+    background-color: gray;
     margin: 40px auto;
     border-radius: 10px;
     max-width: 600px;
